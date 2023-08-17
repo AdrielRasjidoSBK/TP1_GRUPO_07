@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <!-- Botones de pantalla principal -->
+    <string name="btn_Ejercicio1">EJERCICIO 1</string>
+    <string name="btn_Ejercicio2">EJERCICIO 2</string>
+    <string name="tv_Integrantes"><b>INTEGRANTES:</b>\n\nDI TONTO NICOLAS\nRASJIDO ADRIEL\nVACA ALAN</string>
+    <!-- Botones de ejercicio 1 -->
+    <string name="tv_Ej1_PrimerNumero">Primer número</string>
+    <string name="tv_Ej1_SegundoNumero">Segundo número</string>
+    <!--<string name="txt_Ej1_PrimerNumero"></string> -->
+    <!-- <string name="txt_Ej1_SegundoNumero"></string> -->
+    <string name="btn_Ej1_Calcular">CALCULAR</string>
+    <string name="tv_Resultado">resultado: </string>
+    <string name="btn_Ej1_Atras">Atras</string>
+    <string name="title_activity_ejercicio2">Ejercicio2Activity</string>
+    <!-- Botones de ejercicio 2 -->
+    <string name="btnNro1">1</string>
+    <string name="btnNro2">2</string>
+    <string name="btnNro3">3</string>
+    <string name="btnNro4">4</string>
+    <string name="btnNro5">5</string>
+    <string name="btnNro6">6</string>
+    <string name="btnNro7">7</string>
+    <string name="btnNro8">8</string>
+    <string name="btnNro9">9</string>
+    <string name="btnNro0">0</string>
+    <string name="btnDividir">/</string>
+    <string name="btnMultiplicar">*</string>
+    <string name="btnRestar">-</string>
+    <string name="btnSumar">+</string>
+    <string name="btnBorrar">C</string>
+    <string name="btnIgual">=</string>
+
+</resources>
